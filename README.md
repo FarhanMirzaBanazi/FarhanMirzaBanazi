@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm [Nama Kamu] 👩‍💻</h2>
+<h2 align="center">Hi, I'm Farhan Mirza Banazi 👩‍💻</h2>
 <h3 align="center">Junior Software Quality Assurance</h3>
 
 ---
